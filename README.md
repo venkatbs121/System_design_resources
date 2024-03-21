@@ -1,4 +1,4 @@
-## System Design Fundamentals
+his repository contains resources to learn System Design concepts using free resources.## System Design Fundamentals
 - [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
